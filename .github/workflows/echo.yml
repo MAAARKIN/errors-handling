@@ -6,6 +6,7 @@ on:
     - '*'
 
 jobs:
+
   release-on-push:
     runs-on: ubuntu-latest
     # env:
